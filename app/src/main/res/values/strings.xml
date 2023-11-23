@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_list">ChatList</string>
+    <string name="title_detail">ChatDetail</string>
+</resources>
